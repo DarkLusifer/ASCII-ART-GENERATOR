@@ -19,6 +19,7 @@
    - python3 main.py <br>
   <br>
   <br>
+  <p color="red"> #copyright © 2023 Dark Lusifer </P>
   <br>
   <br>
   
