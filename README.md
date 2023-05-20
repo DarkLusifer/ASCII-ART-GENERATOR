@@ -1,7 +1,7 @@
 # ASCII-ART-GENERATOR
 
 <h2 color="red" >USAGE:</h2>
-<br>     <h4> ~ Termux installation(android) </h4>
+<br>     <h4> ~ Termux installation(android/linux) </h4>
    - pip install pyfiglet <br>
    - pip install python <br>
    - pip install github <br>
@@ -14,7 +14,7 @@
    - apk add pyfiglet <br>
    - apk add python3 <br>
    - apk add github <br>
-   - git clone https://github.com/DarkLusifer/ASCII-ART-GENERATOR.git
+   - git clone https://github.com/DarkLusifer/ASCII-ART-GENERATOR.git <br>
    - cd ASCII-ART-GENERATOR <br>
    - python3 main.py <br>
   <br>
