@@ -3,9 +3,10 @@
 <h2 color="red" >USAGE:</h2>
 <br>     <h4> ~ Termux installation(android) </h4>
 
-` pip install pyfiglet ` <br>
-` pip install python ` <br>
-` pip install git ` <br>
+` pkg upgrade && pkg update ` <br>
+` pkg install pyfiglet ` <br>
+` pkg install python ` <br>
+` pkg install git ` <br>
 ` git clone https://github.com/DarkLusifer/ASCII-ART-GENERATOR.git ` <br>
 ` cd ASCII-ART-GENERATOR ` <br>
 ` python main.py ` <br> 
