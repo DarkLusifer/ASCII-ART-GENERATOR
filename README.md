@@ -25,7 +25,7 @@
 
   <br>
   <br>
-  < #copyright © 2023 Dark Lusifer >
+   >copyright © 2023 Dark Lusifer 
   <br>
   <br>
   
@@ -33,9 +33,9 @@
   
 <p>
 
-  - 💬 something about me at <a href="https://t.me/about_DarkLusifer"> Here </a> 
+  - 💬 something about me at <a href="https://t.me/about_DarkLusifer"> Here </a> :heart_eyes:
 
-  - 📫 Reach me on <a href="https://t.me/Mr_darklusifer"> Mr_darklusifer </a> 
+  - 📫 Reach me on <a href="https://t.me/Mr_darklusifer"> Mr_darklusifer </a> :heart_on_fire:
 
 
 <p align="left">
