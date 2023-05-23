@@ -22,7 +22,7 @@
 
   <br>
   <br>
-   >copyright © 2023 Dark Lusifer 
+   > copyright © 2023 Dark Lusifer 
   <br>
   <br>
   
