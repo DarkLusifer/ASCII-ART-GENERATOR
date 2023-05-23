@@ -1,7 +1,7 @@
 # ASCII-ART-GENERATOR
 
 <h2 color="red" >USAGE:</h2>
-<br>     <h4> ~ Termux installation(android/linux) </h4>
+<br>     <h4> ~ Termux installation(android) </h4>
 
 ` pip install pyfiglet ` <br>
 ` pip install python ` <br>
