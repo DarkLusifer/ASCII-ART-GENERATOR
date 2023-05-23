@@ -9,11 +9,8 @@
 ` git clone https://github.com/DarkLusifer/ASCII-ART-GENERATOR.git ` <br>
 ` cd ASCII-ART-GENERATOR ` <br>
 ` python main.py ` <br> 
-
-  <br>
-  <br>
- <br>     <h4> ~ ISH installation(iOS) </h4>
-
+<br>
+<br>     <h4> ~ ISH installation(iOS) </h4>
 
 ` apk add pyfiglet ` <br>
 ` apk add python3 ` <br>
